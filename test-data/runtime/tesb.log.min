@@ -1,0 +1,1 @@
+2021-01-14T15:36:33,824 | WARN  | kafka-producer-network-thread | GBM | ache.kafka,clients.NetworkClient  717 | 347 - org.apache.servicemix.bundles.kafka-clients - 2.1.0.1 | [Producer clientId=GBM] Connection to node 10 (dp.ist.bns/2.5.4.67.2:9032) | THis is a message
